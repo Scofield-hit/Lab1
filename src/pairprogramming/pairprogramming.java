@@ -2,7 +2,11 @@ package pairprogramming;
 import java.util.*;
 import java.lang.*;
 import java.math.*;
+<<<<<<< HEAD
 /*要求两人共同合作完成四则运算*/
+=======
+/*完成四则运算*/
+>>>>>>> B2
 public class pairprogramming {
 	
 	/**
