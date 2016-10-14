@@ -2,7 +2,7 @@ package pairprogramming;
 import java.util.*;
 import java.lang.*;
 import java.math.*;
-
+/*要求两人共同合作完成四则运算*/
 public class pairprogramming {
 	
 	/**
@@ -359,4 +359,4 @@ public class pairprogramming {
 			System.out.print(output+"\n");
 		}
 }
-/*实验要求实现四则运算*/
+
