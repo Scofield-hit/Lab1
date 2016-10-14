@@ -2,7 +2,7 @@ package pairprogramming;
 import java.util.*;
 import java.lang.*;
 import java.math.*;
-
+/*本次结对编程要求两人共同合作完成*/
 public class pairprogramming {
 	
 	/**
