@@ -5,6 +5,10 @@ import java.math.*;
 //第二次修改
 //B1修改
 //C4修改
+
+
+//B2修改
+
 public class pairprogramming {
 	
 	/**
